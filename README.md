@@ -58,6 +58,12 @@
         title="Illustrator"
         width="50px"
     />
+    <img 
+        src="svgs/figma.svg"
+        alt="Figma"
+        title="Figma"
+        width="50px"
+    />
 </div>
 
 <br>
@@ -75,3 +81,4 @@
     </a>
     </div>
 </div>
+
